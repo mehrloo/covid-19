@@ -1,5 +1,5 @@
 # covid-19
-R project to read data from JHU repo and visualize data (including SIR model) using ggoplot and Shiny , feel free to use and modify.
+R and Python project to read data from JHU repo and visualize data (including SIR model) using ggoplot and Shiny , feel free to use and modify.
 
 ### References
 
